@@ -22,6 +22,4 @@ This project is licensed under the [MIT License](/LICENSE.txt).
 
 ## Credits
 
-Developed by Valentin Popov
-
-E-Mail: [valentin@popov.link]
+Developed by [Valentin Popov](mailto:valentin@popov.link).
