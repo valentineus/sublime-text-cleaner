@@ -1,0 +1,22 @@
+{
+    // Convert tabs to spaces.
+    "expand_tabs": true,
+
+    // Replace invisible characters with a space.
+    "replace_invisible_chars": true,
+
+    // Replace smart quotes, apostrophes, and guillemets with ASCII quotes.
+    "replace_fancy_quotes": true,
+
+    // Remove extra whitespace at the start and end of each line.
+    "trim_line_whitespace": true,
+
+    // Replace multiple spaces with a single space.
+    "replace_multiple_spaces": true,
+
+    // Remove duplicate empty lines.
+    "remove_duplicate_empty_lines": true,
+
+    // Remove empty lines after opening brackets and before closing brackets.
+    "remove_empty_lines_around_brackets": true
+}
