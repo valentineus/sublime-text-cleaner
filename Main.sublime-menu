@@ -1,0 +1,18 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "TextCleaner: Settings",
+                        "command": "open_file",
+                        "args": {"file": "${packages}/TextCleaner/TextCleaner.sublime-settings"}
+                    }
+                ]
+            }
+        ]
+    }
+]
+
