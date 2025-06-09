@@ -1,6 +1,11 @@
 [
     {
-        "caption": "Clear Text",
+        "caption": "TextCleaner: Clean Text",
         "command": "text_cleaner"
+    },
+    {
+        "caption": "TextCleaner: Settings",
+        "command": "open_file",
+        "args": {"file": "${packages}/TextCleaner/TextCleaner.sublime-settings"}
     }
 ]

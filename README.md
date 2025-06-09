@@ -2,6 +2,10 @@
 
 TextCleaner is a Sublime Text 4 plugin that cleans up your document by performing several text transformations. It converts tabs to spaces, replaces invisible characters, standardizes quotes, trims extra whitespace, collapses multiple spaces, removes duplicate empty lines, and cleans up empty lines around brackets.
 
+## Usage
+
+Run the **TextCleaner: Clean Text** command from the Command Palette to tidy up the current file. You can open the plugin settings via the same palette or through the **Preferences → Package Settings → TextCleaner** menu.
+
 ## Settings
 
 You can customize which transformations are applied through the configuration file ([TextCleaner.sublime-settings](/TextCleaner.sublime-settings)). Below is a description of each setting:
